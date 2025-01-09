@@ -15,8 +15,7 @@ setup(
         'torchmetrics',
         'scikit-learn',
         'numpy',
-        'matplotlib',
-        'timm==0.4.12',
+        'matplotlib'
     ],
     author='Mark Hamilton, Stephanie Fu',
     author_email='markth@mit.edu, fus@berkeley.edu',
